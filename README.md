@@ -9,4 +9,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PolSances&theme=dark&hide_border=false)
 
-<a href=#><img src="contributions.svg"></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=polsances&show_icons=true&locale=en&layout=compact" alt="polsances" /></p>
