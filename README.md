@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm PolSances, a Student interested in learining to code!!</h1>
-
+<h2 align="center"> By Today i'm enrolled in the CS50 Introduction to Python Programming Couse</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polsances&label=Profile%20views&color=0e75b6&style=flat" alt="polsances" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
